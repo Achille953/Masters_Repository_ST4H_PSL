@@ -15,7 +15,7 @@ The repository is organized by project:
 
 ## 🛠️ Technologies Used
 * **Python**
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch, Seaborn
 * **Environment:** Google Colab / Jupyter Notebooks
 
 ## 🚀 How to Run
