@@ -10,9 +10,14 @@ This repository consolidates work developed as part of the AIH track courses for
 The repository is organized by project:
 
 EHR Risk Prediction using MIMIC-IV 3.1 dataset
-* 1 **L1 Logistic regression for mortality risk prediction.ipynb**
-* 2 **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**
-* 3 **LSTM model for Sequential Medical Data & RNNs comparison.ipynb**
+* 1. **L1 Logistic regression for mortality risk prediction.ipynb**
+* 2. **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**
+* 3. **LSTM model for Sequential Medical Data & RNNs comparison.ipynb**
+ 
+Neural Networks for Medical Images Classification in Dermatology
+* 1. **L1 Logistic regression for mortality risk prediction.ipynb**
+* 2. **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**
+
 ## 🛠️ Technologies Used
 * **Python**
 * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch, Seaborn
