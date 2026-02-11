@@ -9,9 +9,10 @@ This repository consolidates work developed as part of the AIH track courses for
 ## 📂 Repository Contents
 The repository is organized by project:
 
-* **L1 Logistic regression for mortality risk prediction.ipynb**: MIMIC-IV 3.1 dataset
-* **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**: MIMIC-IV 3.1 dataset
-* **LSTM model for Sequential Medical Data & RNNs comparison.ipynb**: MIMIC-IV 3.1 dataset
+EHR Risk Prediction using MIMIC-IV 3.1 dataset
+* 1 **L1 Logistic regression for mortality risk prediction.ipynb**
+* 2 **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**
+* 3 **LSTM model for Sequential Medical Data & RNNs comparison.ipynb**
 ## 🛠️ Technologies Used
 * **Python**
 * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch, Seaborn
