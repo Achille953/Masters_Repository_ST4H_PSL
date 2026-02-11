@@ -9,10 +9,9 @@ This repository consolidates work developed as part of the AIH track courses for
 ## 📂 Repository Contents
 The repository is organized by project:
 
-* **[Name of Notebook 1].ipynb**: [Brief description, e.g., "Predicting heart disease using Logistic Regression."]
-* **[Name of Notebook 2].ipynb**: [Brief description, e.g., "Image segmentation on MRI data."]
-* **[Name of Notebook 3].ipynb**: [Brief description, e.g., "Time-series analysis of patient vitals."]
-
+* **L1 Logistic regression for mortality risk prediction.ipynb**: MIMIC-IV 3.1 dataset
+* **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**: MIMIC-IV 3.1 dataset
+* **LSTM model for Sequential Medical Data & RNNs comparison.ipynb**: MIMIC-IV 3.1 dataset
 ## 🛠️ Technologies Used
 * **Python**
 * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch, Seaborn
