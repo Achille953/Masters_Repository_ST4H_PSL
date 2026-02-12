@@ -15,7 +15,7 @@ EHR Risk Prediction using MIMIC-IV 3.1 dataset
 3. **LSTM model for Sequential Medical Data & RNNs comparison.ipynb**
  
 Deep Learning for Medical Images Classification in Dermatology
-* 1. **CNN for classification of skin cancer images.ipynb**
+1. **CNN for classification of skin cancer images.ipynb**
 
 ## 🛠️ Technologies Used
 * **Python**
