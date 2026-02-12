@@ -1,5 +1,5 @@
 # Masters_Repository_ST4H_PSL
-Course projects and practical sessions from the ST4H Master's degree.
+Course projects and practical sessions from the ST4H Master's degree - AI & Digital Health track
 
 ## 📌 Project Overview
 **Objective:** Share healthcare AI/ML projects in Python.
@@ -14,9 +14,8 @@ EHR Risk Prediction using MIMIC-IV 3.1 dataset
 2. **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**
 3. **LSTM model for Sequential Medical Data & RNNs comparison.ipynb**
  
-Neural Networks for Medical Images Classification in Dermatology
-* 1. **L1 Logistic regression for mortality risk prediction.ipynb**
-* 2. **Word2Vec for Clinical Codes Embedding & Logistic Regression mortality prediction.ipynb**
+Deep Learning for Medical Images Classification in Dermatology
+* 1. **CNN for classification of skin cancer images.ipynb**
 
 ## 🛠️ Technologies Used
 * **Python**
@@ -24,6 +23,7 @@ Neural Networks for Medical Images Classification in Dermatology
 * **Environment:** Google Colab / Jupyter Notebooks
 
 ## 🚀 How to Run
+You can access the data following the guide at the beginning of the notebooks.
 Since these are Jupyter Notebooks, you can view the code and results directly here on GitHub.
 
 To run the code interactively:
