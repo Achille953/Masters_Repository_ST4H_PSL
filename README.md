@@ -1,13 +1,16 @@
 # Masters_Repository_ST4H_PSL
-Course projects and practical sessions from the ST4H Master's degree - AI & Digital Health track
+
+👤 **Achille RAVIEZ**,
+MD, MSc | Public Health Resident | AI & Digital Health [LinkedIn](https://www.linkedin.com/in/achille-raviez-819a5328b/) 
 
 ## 📌 Project Overview
 **Objective:** Share healthcare AI/ML projects in Python.
 
-This repository consolidates work developed as part of the AIH track courses for the ST4H Master's program at **PSL University**. It demonstrates the application of Machine Learning algorithms on health data.
+This repository consolidates projects and practical sessions from the **ST4H Master's degree (AI & Digital Health track)** at **PSL University**.
+
+It demonstrates the application of Machine Learning algorithms on health data.
 
 ## 📂 Repository Contents
-The repository is organized by project:
 
 EHR Risk Prediction using MIMIC-IV 3.1 dataset
 1. **L1 Logistic regression for mortality risk prediction.ipynb**
@@ -31,7 +34,3 @@ To run the code interactively:
 2.  Upload it to [Google Colab](https://colab.research.google.com/).
 3.  Run the cells sequentially.
 
-## 👤 Author
-**Achille RAVIEZ**
-MD, Master's Student in Biomedical Engineering, AI & Digital Health
-[LinkedIn](https://www.linkedin.com/in/achille-raviez-819a5328b/)
