@@ -15,10 +15,10 @@ It demonstrates the application of Machine Learning algorithms on health data.
 EHR Risk Prediction using MIMIC-IV 3.1 dataset
 1. **L1 Logistic Regression for Mortality Risk Prediction.ipynb**
 2. **Word2Vec for Clinical Codes Embedding & Logistic Regression Mortality Prediction.ipynb**
-3. **LSTM model for Sequential Medical Data & RNNs Comparison.ipynb**
+3. **LSTM model for Mortality Prediction compared with GRU and BLSTM.ipynb**
  
 Deep Learning for Medical Images Classification in Dermatology
-1. **CNN for Classification of Skin Cancer Images.ipynb**
+1. **CNN Skin Cancer Image Classifier.ipynb**
 
 ## 🛠️ Technologies Used
 * **Python**
